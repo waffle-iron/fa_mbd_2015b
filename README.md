@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/my13/fa_mbd_2015b.png?label=ready&title=Ready)](https://waffle.io/my13/fa_mbd_2015b)
 # Financial Analytics Software
 
 The goal of this code is to provide analyst in the financial sector a python code to clean, manipulate and 
